@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT64_NAN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-nan@esm/index.mjs';
+import FLOAT64_NAN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-nan@v0.2.2-esm/index.mjs';
 ```
 
 #### FLOAT64_NAN
@@ -72,7 +72,7 @@ var bool = ( FLOAT64_NAN !== FLOAT64_NAN );
 <body>
 <script type="module">
 
-import FLOAT64_NAN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-nan@esm/index.mjs';
+import FLOAT64_NAN from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-nan@v0.2.2-esm/index.mjs';
 
 console.log( FLOAT64_NAN );
 // => NaN
