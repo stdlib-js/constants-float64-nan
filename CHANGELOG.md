@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-02)
+## Unreleased (2026-09-30)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`fb5ec21`](https://github.com/stdlib-js/stdlib/commit/fb5ec210035434f3734e3e0c16f1b9365880eefa) - add parentheses to NaN macros [(#15676)](https://github.com/stdlib-js/stdlib/pull/15676)
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`fb5ec21`](https://github.com/stdlib-js/stdlib/commit/fb5ec210035434f3734e3e0c16f1b9365880eefa) - **fix:** add parentheses to NaN macros [(#15676)](https://github.com/stdlib-js/stdlib/pull/15676) _(by Karan Anand)_
 -   [`a9ded39`](https://github.com/stdlib-js/stdlib/commit/a9ded39203d2cbc9ff79b0cc96f0fbd2a962b36f) - **chore:** clean-up [(#12446)](https://github.com/stdlib-js/stdlib/pull/12446) _(by Philipp Burckhardt, Athan Reines)_
 
 </details>
@@ -24,9 +35,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Karan Anand
 -   Philipp Burckhardt
 
 </section>
